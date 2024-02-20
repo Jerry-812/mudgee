@@ -1,4 +1,0 @@
-bottle
-dpkt
-pypcap
-numpy
